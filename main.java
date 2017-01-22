@@ -1,12 +1,12 @@
 import java.io.*;
 import java.util.*;
 
-public class GymRhythm {
+public class main {
 	ArrayList lyrics = new ArrayList();
 	int songLength = 0;
 
 	public static void main(String [] args) {
-		GymRhythm gr = new GymRhythm();
+		main gr = new main();
 		gr.run();
 	}
 
